@@ -1,0 +1,19 @@
+{
+  "name": "jijnasa",
+  "version": "0.0.1",
+  "description": "A Knowledge Repository for all Jijnasa activities",
+  "main": "index.js",
+  "authors": {
+    "name": "Ashwin Balaji",
+    "email": "ashwing2981999@gmail.com"
+  },
+  "repository": "jijnasa/jijnasa",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
